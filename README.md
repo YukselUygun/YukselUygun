@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      🎓 <br> <b>Yazılım Mühendisliği</b> <br> Kırklareli Üniversitesi <br> 4. Sınıf · GPA: 3.28
+      🎓 <br> <b>Yazılım Mühendisliği</b> <br> Kırklareli Üniversitesi <br> 4. Sınıf · GPA: 3.32
     </td>
     <td align="center">
       🧠 <br> <b>Data Science & ML</b> <br> Python · Sklearn · TensorFlow
@@ -77,7 +77,7 @@
 
 <div align="center">
 
-🥈 **BigIdea Idea Hackathon – 2. Yer**  
+🥈 **BigIdea Idea Hackathon – 2.**  
 🏅 **TEKNOFEST Blockchain – Finalist (7.)**  
 🏅 **TEKNOFEST Akıllı Ulaşım – Finalist (8.)**
 
