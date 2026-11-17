@@ -21,10 +21,10 @@
       🎓 <br> <b>Yazılım Mühendisi</b> <br> Kırklareli Üniversitesi <br> · GPA: 3.36
     </td>
     <td align="center">
-      🧠 <br> <b>Data Science & ML</b> <br> Python · Sklearn · TensorFlow
+      💼 <br> <b>Data Scientist</b> <br> Yapıdrom Mobility (2025)
     </td>
     <td align="center">
-      💼 <br> <b>Data Scientist</b> <br> Yapıdrom Mobility (2025)
+      💼 <br> <b>Data Engineer</b> <br> Ensight Data & Ai (2026)
     </td>
   </tr>
 </table>
@@ -35,41 +35,9 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
+\<p align="center">   
+\<img src="[https://skillicons.dev/icons?i=python,azure,postgres,mysql,docker,git,github](https://skillicons.dev/icons?i=python,azure,postgres,mysql,docker,git,github)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=spark,kafka,airflow,postgresql,mongodb,sqlite](https://skillicons.dev/icons?i=spark,kafka,airflow,postgresql,mongodb,sqlite)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,seaborn](https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,seaborn)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=java,cs,c,js,html,css,php](https://skillicons.dev/icons?i=java,cs,c,js,html,css,php)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=vscode,visualstudio](https://skillicons.dev/icons?i=vscode,visualstudio)" /> \</p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,pandas,matplotlib,seaborn" /><br>
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,regex" /><br>
-<img src="https://skillicons.dev/icons?i=java,cs,c" /><br>
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-</p>
-
----
-
-## 📌 Öne Çıkan Projeler
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      📚 <br>
-      <a href="https://github.com/YukselUygun/KutuphaneSistemii"><b>Kütüphane Yönetim Sistemi</b></a> <br>
-      Java · Design Patterns · SOLID
-    </td>
-    <td align="center" width="33%">
-      🎭 <br>
-      <b>Türkçe Duygu Analizi</b> <br>
-      Random Forest · NLP · Sklearn
-    </td>
-    <td align="center" width="33%">
-      📊 <br>
-      <b>Data Science Çalışmaları</b> <br>
-      EDA · ML · Visualization
-    </td>
-  </tr>
-</table>
-</div>
 
 ---
 
@@ -82,15 +50,6 @@
 🏅 **TEKNOFEST Akıllı Ulaşım – Finalist (8.)**
 
 </div>
-
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YukselUygun&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
 
 ---
 
@@ -124,7 +83,7 @@
 
 ---
 
-<p align="center"><i>"Beautiful code is simple, clear and elegant."</i></p>
+<p align="center"><i>"Building solutions today, shaping possibilities for tomorrow."</i></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YukselUygun&style=flat-square&color=blue" />
