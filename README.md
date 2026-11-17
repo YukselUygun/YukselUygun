@@ -35,8 +35,18 @@
 
 ## 🛠 Tech Stack
 
-\<p align="center">   
-\<img src="[https://skillicons.dev/icons?i=python,azure,postgres,mysql,docker,git,github](https://skillicons.dev/icons?i=python,azure,postgres,mysql,docker,git,github)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=spark,kafka,airflow,postgresql,mongodb,sqlite](https://skillicons.dev/icons?i=spark,kafka,airflow,postgresql,mongodb,sqlite)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,seaborn](https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,seaborn)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=java,cs,c,js,html,css,php](https://skillicons.dev/icons?i=java,cs,c,js,html,css,php)" />   \<br/>\<br/>   \<img src="[https://skillicons.dev/icons?i=vscode,visualstudio](https://skillicons.dev/icons?i=vscode,visualstudio)" /> \</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,azure,docker,git,github" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=spark,kafka,airflow,postgres,mysql,mongodb,sqlite" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,numpy,pandas,matplotlib,seaborn" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=java,cs,c,js,html,css,php" />
+  <br /><br />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+</p>
+
 
 
 ---
