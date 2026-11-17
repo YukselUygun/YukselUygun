@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&center=true&vCenter=true&width=500&lines=Data+Science+%26+Machine+Learning;Backend+Geli%C5%9Ftirme;Yapay+Zeka+%26+Algoritmalar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&center=true&vCenter=true&width=600&lines=Data+Engineering;Microsoft+Fabric+%26+Azure;SQL+%26+PySpark;ETL+%2F+ELT+%26+Data+Warehousing;Data+Science+%26+Machine+Learning" />
 </p>
 
 ---
