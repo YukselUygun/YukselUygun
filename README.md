@@ -2,7 +2,7 @@
 <h1 align="center">👋 Merhaba, ben Yüksel Uygun</h1>
 
 <p align="center">
-  <b>Software Engineering Student • Data Science • Machine Learning • Data Engineering</b>
+  <b>Software Engineer • Data Engineer </b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      🎓 <br> <b>Yazılım Mühendisliği</b> <br> Kırklareli Üniversitesi <br> 4. Sınıf · GPA: 3.32
+      🎓 <br> <b>Yazılım Mühendisi</b> <br> Kırklareli Üniversitesi <br> · GPA: 3.36
     </td>
     <td align="center">
       🧠 <br> <b>Data Science & ML</b> <br> Python · Sklearn · TensorFlow
